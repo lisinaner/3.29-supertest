@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "mocha --exit --require should --reporter spec --check-leaks"
+  },
+  "devDependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
